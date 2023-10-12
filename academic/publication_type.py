@@ -10,7 +10,7 @@ PUB_TYPES_BIBTEX_TO_CSL = {
     "mastersthesis": "thesis",
     "patent": "patent",
     "phdthesis": "thesis",
-    "proceedings": "book",
+    "proceedings": "proceedings",
     "report": "report",
     "thesis": "thesis",
     "techreport": "report",
