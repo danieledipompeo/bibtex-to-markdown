@@ -16,7 +16,7 @@ packages = [
 academic = "academic.cli:main"
 
 [tool.poetry.dependencies]
-python = ">=3.11.5"
+python = ">=3.11.4"
 bibtexparser = "~1.4"
 "ruamel.yaml" = "~0.17"
 
